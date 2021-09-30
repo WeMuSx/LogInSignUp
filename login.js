@@ -1,15 +1,15 @@
 var objPeople = [
 	{ // Object @ 0 index
 		username: "Mortron",
-		password: "123"
+		password: "12341234"
 	},
 	{ // Object @ 1 index
 		username: "Cyborg",
-		password: "abc"
+		password: "abcdabcd"
 	},
 	{ // Object @ 2 index
 		username: "Tristor",
-		password: "abc123"
+		password: "abcd1234"
 	}
 
 ]
