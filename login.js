@@ -57,6 +57,8 @@ function registerUser() {
 		}
 	}
 	
+
+	
 	objPeople.push(newUser)
 	
 	console.log(objPeople)
