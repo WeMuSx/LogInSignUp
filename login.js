@@ -45,7 +45,7 @@ function registerUser() {
 		
 		if(registerUser == objPeople[i].username) {
 			
-			alert('That username is already in user, please choose another')
+			alert('That username is already taken, please choose another')
 			
 			return
 		
