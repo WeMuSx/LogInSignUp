@@ -22,7 +22,7 @@ function login() {
 		
 		if(username == objPeople[i].username && password == objPeople[i].password) {
 			alert(username + " is logged in!!!")
-			console.log(objPeople)
+			systeme.outPrint(username + password)
 			
 			return
 		}
